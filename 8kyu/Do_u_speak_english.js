@@ -10,7 +10,7 @@
 function spEng(sentence) {
     sentence = sentence.toLowerCase();
     return sentence.includes("english") ? true : false
-//write your code here
+//write your code here 1233
 }
 
 
