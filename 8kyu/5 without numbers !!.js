@@ -10,4 +10,4 @@ let five="abcde"
     return five.length
 }
 
-console.log(unusualFive());
+console.log(unusualFive())
