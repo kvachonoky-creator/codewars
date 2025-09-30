@@ -6,13 +6,8 @@
 
 
 function unusualFive() {
-    let five = "abcde";
-    let one = indexOf("a");
-    let two = indexOf("b");
-    let three = indexOf("c");
-    let four = indexOf("d");
-    let five = indexOf("e");
-    return (one + two + three + four + five)
+let five="abcde"
+    return five.length
 }
 
 console.log(unusualFive());
