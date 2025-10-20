@@ -1,0 +1,1 @@
+const solution = x => x.sort((a, b) => a - b)
